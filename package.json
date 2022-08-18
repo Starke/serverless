@@ -31,7 +31,7 @@
     "aws-sdk": "^2.1198.0",
     "bluebird": "^3.7.2",
     "cachedir": "^2.3.0",
-    "chalk": "^5.0.1",
+    "chalk": "^4.1.2",
     "child-process-ext": "^2.1.1",
     "ci-info": "^3.3.2",
     "cli-progress-footer": "^2.3.2",
