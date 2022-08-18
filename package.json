@@ -37,7 +37,7 @@
     "cli-progress-footer": "^2.3.2",
     "d": "^1.0.1",
     "dayjs": "^1.11.5",
-    "decompress": "^4.2.1",
+    "decompress": "Starke/decompress#master",
     "dotenv": "^16.0.1",
     "dotenv-expand": "^8.0.3",
     "essentials": "^1.2.0",
